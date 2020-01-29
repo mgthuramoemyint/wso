@@ -15,6 +15,10 @@ For bug reports or enhancements, please open an issue here: https://github.com/t
 
 This PHP Shell is a useful tool for system or web administrator to do remote management without using cpanel, connecting using ssh, ftp etc. All actions take place within a web browser
 
+WSO скрывается под страницей 404, нажмите TAB один раз и введите пароль.
+
+WSO is hiding under page 404, press TAB once and enter the password.
+
 ### Original WSO
 ##### MD5 b31a3f22d47c8ea3432526fc151e842e
 ##### SHA-1	f14240e796aecb2ec0083e4028ef3989c8ee24f2
